@@ -10,9 +10,18 @@
 		E38BAA8A2771AA85006340EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38BAA892771AA85006340EF /* AppDelegate.swift */; };
 		E38BAA8C2771AA85006340EF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38BAA8B2771AA85006340EF /* SceneDelegate.swift */; };
 		E38BAA8E2771AA85006340EF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E38BAA8D2771AA85006340EF /* ViewController.swift */; };
-		E38BAA912771AA85006340EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E38BAA8F2771AA85006340EF /* Main.storyboard */; };
 		E38BAA932771AA89006340EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E38BAA922771AA89006340EF /* Assets.xcassets */; };
-		E38BAA962771AA89006340EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E38BAA942771AA89006340EF /* LaunchScreen.storyboard */; };
+		E38BAAA92771C9E6006340EF /* hangman0.png in Resources */ = {isa = PBXBuildFile; fileRef = E38BAAA12771C9E6006340EF /* hangman0.png */; };
+		E38BAAAA2771C9E6006340EF /* hangman1.png in Resources */ = {isa = PBXBuildFile; fileRef = E38BAAA22771C9E6006340EF /* hangman1.png */; };
+		E38BAAAB2771C9E6006340EF /* hangman3.png in Resources */ = {isa = PBXBuildFile; fileRef = E38BAAA32771C9E6006340EF /* hangman3.png */; };
+		E38BAAAC2771C9E6006340EF /* hangman2.png in Resources */ = {isa = PBXBuildFile; fileRef = E38BAAA42771C9E6006340EF /* hangman2.png */; };
+		E38BAAAD2771C9E6006340EF /* hangman6.png in Resources */ = {isa = PBXBuildFile; fileRef = E38BAAA52771C9E6006340EF /* hangman6.png */; };
+		E38BAAAE2771C9E6006340EF /* hangman7.png in Resources */ = {isa = PBXBuildFile; fileRef = E38BAAA62771C9E6006340EF /* hangman7.png */; };
+		E38BAAAF2771C9E6006340EF /* hangman5.png in Resources */ = {isa = PBXBuildFile; fileRef = E38BAAA72771C9E6006340EF /* hangman5.png */; };
+		E38BAAB02771C9E6006340EF /* hangman4.png in Resources */ = {isa = PBXBuildFile; fileRef = E38BAAA82771C9E6006340EF /* hangman4.png */; };
+		E38BAAB32771CA62006340EF /* english.rtf in Resources */ = {isa = PBXBuildFile; fileRef = E38BAAB22771CA62006340EF /* english.rtf */; };
+		E38BAABA2771CAE8006340EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E38BAAB82771CAE8006340EF /* LaunchScreen.storyboard */; };
+		E38BAABE2771CB0D006340EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E38BAABC2771CB0D006340EF /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,10 +29,19 @@
 		E38BAA892771AA85006340EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E38BAA8B2771AA85006340EF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E38BAA8D2771AA85006340EF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E38BAA902771AA85006340EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E38BAA922771AA89006340EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E38BAA952771AA89006340EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E38BAA972771AA89006340EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E38BAAA12771C9E6006340EF /* hangman0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hangman0.png; sourceTree = "<group>"; };
+		E38BAAA22771C9E6006340EF /* hangman1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hangman1.png; sourceTree = "<group>"; };
+		E38BAAA32771C9E6006340EF /* hangman3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hangman3.png; sourceTree = "<group>"; };
+		E38BAAA42771C9E6006340EF /* hangman2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hangman2.png; sourceTree = "<group>"; };
+		E38BAAA52771C9E6006340EF /* hangman6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hangman6.png; sourceTree = "<group>"; };
+		E38BAAA62771C9E6006340EF /* hangman7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hangman7.png; sourceTree = "<group>"; };
+		E38BAAA72771C9E6006340EF /* hangman5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hangman5.png; sourceTree = "<group>"; };
+		E38BAAA82771C9E6006340EF /* hangman4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hangman4.png; sourceTree = "<group>"; };
+		E38BAAB22771CA62006340EF /* english.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = english.rtf; sourceTree = "<group>"; };
+		E38BAAB92771CAE8006340EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E38BAABD2771CB0D006340EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,12 +77,37 @@
 				E38BAA892771AA85006340EF /* AppDelegate.swift */,
 				E38BAA8B2771AA85006340EF /* SceneDelegate.swift */,
 				E38BAA8D2771AA85006340EF /* ViewController.swift */,
-				E38BAA8F2771AA85006340EF /* Main.storyboard */,
+				E38BAAB72771CAAD006340EF /* Base.lproj */,
 				E38BAA922771AA89006340EF /* Assets.xcassets */,
-				E38BAA942771AA89006340EF /* LaunchScreen.storyboard */,
 				E38BAA972771AA89006340EF /* Info.plist */,
+				E38BAAB22771CA62006340EF /* english.rtf */,
+				E38BAAA02771C9E6006340EF /* pictures */,
 			);
 			path = Hangman;
+			sourceTree = "<group>";
+		};
+		E38BAAA02771C9E6006340EF /* pictures */ = {
+			isa = PBXGroup;
+			children = (
+				E38BAAA12771C9E6006340EF /* hangman0.png */,
+				E38BAAA22771C9E6006340EF /* hangman1.png */,
+				E38BAAA32771C9E6006340EF /* hangman3.png */,
+				E38BAAA42771C9E6006340EF /* hangman2.png */,
+				E38BAAA52771C9E6006340EF /* hangman6.png */,
+				E38BAAA62771C9E6006340EF /* hangman7.png */,
+				E38BAAA72771C9E6006340EF /* hangman5.png */,
+				E38BAAA82771C9E6006340EF /* hangman4.png */,
+			);
+			path = pictures;
+			sourceTree = "<group>";
+		};
+		E38BAAB72771CAAD006340EF /* Base.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				E38BAAB82771CAE8006340EF /* LaunchScreen.storyboard */,
+				E38BAABC2771CB0D006340EF /* Main.storyboard */,
+			);
+			path = Base.lproj;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,9 +167,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E38BAA962771AA89006340EF /* LaunchScreen.storyboard in Resources */,
+				E38BAAAB2771C9E6006340EF /* hangman3.png in Resources */,
+				E38BAAA92771C9E6006340EF /* hangman0.png in Resources */,
+				E38BAAB32771CA62006340EF /* english.rtf in Resources */,
+				E38BAABE2771CB0D006340EF /* Main.storyboard in Resources */,
+				E38BAAAC2771C9E6006340EF /* hangman2.png in Resources */,
 				E38BAA932771AA89006340EF /* Assets.xcassets in Resources */,
-				E38BAA912771AA85006340EF /* Main.storyboard in Resources */,
+				E38BAAAA2771C9E6006340EF /* hangman1.png in Resources */,
+				E38BAAAE2771C9E6006340EF /* hangman7.png in Resources */,
+				E38BAAAF2771C9E6006340EF /* hangman5.png in Resources */,
+				E38BAAAD2771C9E6006340EF /* hangman6.png in Resources */,
+				E38BAABA2771CAE8006340EF /* LaunchScreen.storyboard in Resources */,
+				E38BAAB02771C9E6006340EF /* hangman4.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,20 +198,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		E38BAA8F2771AA85006340EF /* Main.storyboard */ = {
+		E38BAAB82771CAE8006340EF /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E38BAA902771AA85006340EF /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		E38BAA942771AA89006340EF /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				E38BAA952771AA89006340EF /* Base */,
+				E38BAAB92771CAE8006340EF /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		E38BAABC2771CB0D006340EF /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E38BAABD2771CB0D006340EF /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
